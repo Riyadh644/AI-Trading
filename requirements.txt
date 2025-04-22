@@ -9,3 +9,4 @@ aiohttp
 nest_asyncio
 openai
 fpdf2
+xgboost==2.0.3
