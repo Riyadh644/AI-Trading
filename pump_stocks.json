@@ -1,0 +1,32 @@
+[
+  {
+    "symbol": "DMN",
+    "price": 0.0,
+    "change%": 40.0,
+    "volume": 574271311
+  },
+  {
+    "symbol": "RSLS",
+    "price": 0.38,
+    "change%": 23.61,
+    "volume": 149950274
+  },
+  {
+    "symbol": "SHFS",
+    "price": 4.19,
+    "change%": 87.89,
+    "volume": 42986077
+  },
+  {
+    "symbol": "MKDW",
+    "price": 0.39,
+    "change%": 67.72,
+    "volume": 39620017
+  },
+  {
+    "symbol": "EVGN",
+    "price": 1.27,
+    "change%": 30.93,
+    "volume": 20054589
+  }
+]

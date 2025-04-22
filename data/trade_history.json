@@ -1,0 +1,219 @@
+[
+  {
+    "symbol": "LXRX",
+    "entry_price": 0.56,
+    "score": 27.33,
+    "category": "top",
+    "timestamp": "2025-04-21 19:27:09"
+  },
+  {
+    "symbol": "PTPI",
+    "entry_price": 0.04,
+    "score": 25.99,
+    "category": "top",
+    "timestamp": "2025-04-21 19:27:09"
+  },
+  {
+    "symbol": "SGMO",
+    "entry_price": 0.77,
+    "score": 25.27,
+    "category": "top",
+    "timestamp": "2025-04-21 19:27:09"
+  },
+  {
+    "symbol": "RSLS",
+    "entry_price": 0.43,
+    "score": 25.23,
+    "category": "top",
+    "timestamp": "2025-04-21 19:27:09"
+  },
+  {
+    "symbol": "ADD",
+    "entry_price": 0.93,
+    "score": 25.03,
+    "category": "top",
+    "timestamp": "2025-04-21 19:27:09"
+  },
+  {
+    "symbol": "DMN",
+    "entry_price": 0.0,
+    "score": 20.08,
+    "category": "watchlist",
+    "timestamp": "2025-04-21 19:27:15"
+  },
+  {
+    "symbol": "DGLY",
+    "entry_price": 0.03,
+    "score": 20.08,
+    "category": "watchlist",
+    "timestamp": "2025-04-21 19:27:15"
+  },
+  {
+    "symbol": "APVO",
+    "entry_price": 1.19,
+    "score": 23.78,
+    "category": "watchlist",
+    "timestamp": "2025-04-21 19:27:15"
+  },
+  {
+    "symbol": "SHFS",
+    "entry_price": 4.05,
+    "score": 24.18,
+    "category": "watchlist",
+    "timestamp": "2025-04-21 19:27:15"
+  },
+  {
+    "symbol": "DGXX",
+    "entry_price": 0.91,
+    "score": 21.07,
+    "category": "watchlist",
+    "timestamp": "2025-04-21 19:27:15"
+  },
+  {
+    "symbol": "APLD",
+    "entry_price": 4.17,
+    "score": 22.08,
+    "category": "watchlist",
+    "timestamp": "2025-04-21 19:27:15"
+  },
+  {
+    "symbol": "EVGN",
+    "entry_price": 1.22,
+    "score": 23.65,
+    "category": "watchlist",
+    "timestamp": "2025-04-21 19:27:15"
+  },
+  {
+    "symbol": "RNAZ",
+    "entry_price": 0.3,
+    "score": 24.85,
+    "category": "watchlist",
+    "timestamp": "2025-04-21 19:27:15"
+  },
+  {
+    "symbol": "GERN",
+    "entry_price": 1.42,
+    "score": 23.74,
+    "category": "watchlist",
+    "timestamp": "2025-04-21 19:27:15"
+  },
+  {
+    "symbol": "MVST",
+    "entry_price": 1.97,
+    "score": 21.84,
+    "category": "watchlist",
+    "timestamp": "2025-04-21 19:27:15"
+  },
+  {
+    "symbol": "SBFM",
+    "entry_price": 1.49,
+    "score": 23.74,
+    "category": "watchlist",
+    "timestamp": "2025-04-21 19:27:15"
+  },
+  {
+    "symbol": "BON",
+    "entry_price": 0.06,
+    "score": 22.41,
+    "category": "watchlist",
+    "timestamp": "2025-04-21 19:27:15"
+  },
+  {
+    "symbol": "ECDA",
+    "entry_price": 0.51,
+    "score": 23.86,
+    "category": "watchlist",
+    "timestamp": "2025-04-21 19:27:15"
+  },
+  {
+    "symbol": "IOVA",
+    "entry_price": 3.22,
+    "score": 20.21,
+    "category": "watchlist",
+    "timestamp": "2025-04-21 19:27:15"
+  },
+  {
+    "symbol": "BITF",
+    "entry_price": 0.87,
+    "score": 22.09,
+    "category": "watchlist",
+    "timestamp": "2025-04-21 19:27:15"
+  },
+  {
+    "symbol": "FATE",
+    "entry_price": 1.32,
+    "score": 24.02,
+    "category": "watchlist",
+    "timestamp": "2025-04-21 19:27:15"
+  },
+  {
+    "symbol": "WIMI",
+    "entry_price": 4.75,
+    "score": 21.13,
+    "category": "watchlist",
+    "timestamp": "2025-04-21 19:27:15"
+  },
+  {
+    "symbol": "TSHA",
+    "entry_price": 1.44,
+    "score": 23.03,
+    "category": "watchlist",
+    "timestamp": "2025-04-21 19:27:15"
+  },
+  {
+    "symbol": "PRME",
+    "entry_price": 1.41,
+    "score": 22.23,
+    "category": "watchlist",
+    "timestamp": "2025-04-21 19:27:15"
+  },
+  {
+    "symbol": "MKDW",
+    "entry_price": 0.48,
+    "score": 26.25,
+    "category": "top",
+    "timestamp": "2025-04-21 22:23:10"
+  },
+  {
+    "symbol": "SPRB",
+    "entry_price": 0.13,
+    "score": 25.84,
+    "category": "top",
+    "timestamp": "2025-04-21 22:23:10"
+  },
+  {
+    "symbol": "IVVD",
+    "entry_price": 0.54,
+    "score": 24.45,
+    "category": "watchlist",
+    "timestamp": "2025-04-21 22:23:28"
+  },
+  {
+    "symbol": "UPC",
+    "entry_price": 4.64,
+    "score": 20.98,
+    "category": "pump",
+    "timestamp": "2025-04-21 22:23:39"
+  },
+  {
+    "symbol": "STRO",
+    "entry_price": 0.55,
+    "score": 24.11,
+    "category": "watchlist",
+    "timestamp": "2025-04-21 22:43:00"
+  },
+  {
+    "symbol": "QVCGA",
+    "entry_price": 0.15,
+    "score": 27.86,
+    "category": "top",
+    "timestamp": "2025-04-21 23:08:33"
+  },
+  {
+    "symbol": "WNW",
+    "entry_price": 1.24,
+    "score": 23.45,
+    "category": "watchlist",
+    "timestamp": "2025-04-21 23:52:12"
+  }
+]
